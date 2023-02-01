@@ -1,0 +1,13 @@
+.label {
+    width: 64px;
+    height: 24px;
+    transform: skew(-30deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.span {
+    display: inline-block;
+    transform: skew(30deg);
+}
